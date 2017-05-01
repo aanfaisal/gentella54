@@ -1,15 +1,6 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+# A Laravel 5.4 Gentella Admin
 
-<p align="center">
-<a href="https://travis-ci.org/Labs64/laravel-boilerplate"><img src="https://travis-ci.org/Labs64/laravel-boilerplate.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/labs64/laravel-boilerplate"><img src="https://poser.pugx.org/labs64/laravel-boilerplate/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/labs64/laravel-boilerplate"><img src="https://poser.pugx.org/labs64/laravel-boilerplate/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/labs64/laravel-boilerplate"><img src="https://poser.pugx.org/labs64/laravel-boilerplate/license.svg" alt="License"></a>
-</p>
-
-# A Laravel 5 Boilerplate Project
-
-_Laravel Boilerplate_ provides a very flexible and extensible way of building your custom Laravel 5 applications.
+ Provides a very flexible and extensible way of building your custom Laravel 5 applications with Gentelella Admin panel.
 
 ## Features
 - Administration Dashboard with [Gentelella Admin Theme](https://github.com/puikinsh/gentelella)
@@ -100,7 +91,7 @@ To start the PHP built-in server
 $ php -S localhost:8080 -t public/
 ```
 
-Now you can browse the site [http://localhost:8080](https://photolancer.zone)  🙌
+Now you can browse the site [http://localhost:8080]
 
 ## How to contribute
 
@@ -108,9 +99,6 @@ Fork the repository, read the [CONTRIBUTE](CONTRIBUTE.md) file and make some cha
 Once you're done with your changes send a pull request and check [CI validation status](https://travis-ci.org/Labs64/laravel-boilerplate).
 Thanks!
 
-## Bugs and Feedback
-
-For bugs, questions and discussions please use the [GitHub Issues](https://github.com/Labs64/laravel-boilerplate/issues).
 
 ## License
 

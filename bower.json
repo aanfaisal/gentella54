@@ -1,12 +1,12 @@
 {
-  "name": "laravel-boilerplate",
-  "description": "Laravel Boilerplate provides a very flexible and extensible way of building your custom Laravel 5 applications.",
+  "name": "laravel",
+  "description": "Laravel 5 applications.",
   "main": "",
   "authors": [
-    "Labs64 <info@labs64.com>"
+    "anisku11 <aan.faisalal@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/Labs64/laravel-boilerplate",
+  "homepage": "https://github.com/anisku11/",
   "private": true,
   "ignore": [
     "**/.*",

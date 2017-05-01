@@ -1,24 +1,16 @@
 {
-    "name": "labs64/laravel-boilerplate",
-    "description": "Laravel 5 Boilerplate",
+    "name": "laravel 5.4 gentella admin stater",
+    "description": "Laravel 5.4 stater",
     "type": "project",
-    "keywords": ["php", "framework", "laravel", "laravel5", "admin", "theme", "starter", "bootstrap", "boilerplate", "docker", "template", "social-login", "nodejs"],
-    "homepage": "https://github.com/Labs64/laravel-boilerplate",
+    "keywords": ["php", "framework", "laravel", "laravel5", "admin", "theme", "starter", "bootstrap", "docker", "template", "social-login", "nodejs"],
+    "homepage": "https://github.com/anisku11",
     "license": "MIT",
     "authors": [
         {
-            "name": "Labs64 GmbH",
-            "email": "info@labs64.com",
-            "homepage": "http://www.labs64.com"
+            "name": "anisku11",
+            "email": "aan.faisalal@gmail.com",
         }
     ],
-    "support": {
-        "email": "info@labs64.com",
-        "issues": "https://github.com/Labs64/laravel-boilerplate/issues",
-        "wiki": "https://github.com/Labs64/laravel-boilerplate",
-        "source": "https://github.com/Labs64/laravel-boilerplate",
-        "docs": "https://github.com/Labs64/laravel-boilerplate"
-    },
     "require": {
         "php": ">=5.6.4",
         "arcanedev/log-viewer": "~4.0",
